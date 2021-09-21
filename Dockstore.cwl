@@ -3,7 +3,7 @@ class: Workflow
 doc: "This is a description"
 
 dct:creator:
-  foaf:name: CWL Descriptor Author
+  foaf:name: Kathy Descriptor Author
   foaf:mbox: mailto:cwldescriptor@dockstore.org
 inputs:
   input_file: File
